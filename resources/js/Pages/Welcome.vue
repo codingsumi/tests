@@ -51,6 +51,7 @@ defineProps({
 
         <div>
         <h1>Welcome to Home Page</h1>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id, architecto iusto, aperiam fugit odio eos corrupti autem ipsum blanditiis at voluptates laudantium cupiditate inventore ullam vitae. Dignissimos corporis cum perferendis.</p>
         </div>
         
     </div>
